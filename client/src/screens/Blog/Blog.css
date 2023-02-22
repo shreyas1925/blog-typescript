@@ -1,0 +1,14 @@
+.app--section{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.app--blocks{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 85px;
+    margin-right: 85px;
+}

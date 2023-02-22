@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar should render correctly without crashing forming a snapshot 1`] = `
+<DocumentFragment>
+  <header
+    data-testid="navbar"
+  >
+    <div
+      class="logo--header"
+    >
+      <h1>
+        The Artifact
+      </h1>
+      <h3>
+        Culture & Art Blog
+      </h3>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          Blog
+        </li>
+        <li>
+          About
+        </li>
+        <li>
+          Contact
+        </li>
+      </ul>
+    </nav>
+  </header>
+</DocumentFragment>
+`;

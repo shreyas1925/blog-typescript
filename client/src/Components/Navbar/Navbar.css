@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+header > div {
+    padding-top: 20px;
+    padding-left: 135px;
+}
+nav > ul{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 137px;
+}
+
+nav > ul > li{
+    padding-left: 170px;
+    padding-bottom: 5px;
+    list-style-type:none;
+}
+
+.logo--header h3{
+    font-style: italic;
+    font-weight: 100;
+}

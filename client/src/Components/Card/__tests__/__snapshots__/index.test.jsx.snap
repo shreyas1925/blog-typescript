@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render correctly forming a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app--blocks-block"
+    data-testid="card"
+  >
+    <div>
+      <img
+        alt=""
+      />
+    </div>
+    <div
+      class="block--timestamp"
+    >
+      <p>
+        NaNth
+      undefined, 
+      NaN
+      </p>
+      <p />
+    </div>
+    <div
+      class="block--description"
+    >
+      <h2 />
+      <p />
+    </div>
+    <hr />
+    <div
+      class="block--icons"
+    >
+      <div
+        class="block--clap"
+      >
+        <img
+          alt=""
+          data-testid="count-img"
+          src="clapping.svg"
+        />
+        <p
+          data-testid="count"
+        />
+      </div>
+      <div>
+        <img
+          alt=""
+          data-testid="img"
+          src="heart-black.svg"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

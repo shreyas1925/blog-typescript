@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render correctly without crashing forming a snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    data-testid="footer"
+  >
+    <h3>
+      &artifact.com 2019
+    </h3>
+  </footer>
+</DocumentFragment>
+`;
